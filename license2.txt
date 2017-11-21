@@ -6,3 +6,5 @@ create a new branch is quick and simple
 
 创建一个新的分支 不使用fast forward模式
 
+另一个PC的分支dev的修改
+
